@@ -39,7 +39,7 @@ car-price-prediction/
 ▶️ How to Run
 
 Clone the Repository
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/siddushirol9740063186-beep
 
 cd car-price-prediction
 Install Dependencies
